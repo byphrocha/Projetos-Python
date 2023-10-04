@@ -1,2 +1,2 @@
 # Projetos-Python
-Usarei essa parte para fazer alguns projetos na linguagem Python, a fim de melhorar minha logica de programação e também relembrar e testar meus conhecimentos!
+As a passionate learner stepping into the vast world of programming, I've created this space to hone my logic programming skills, delve into the intricacies of Python, and enhance my overall coding abilities.Thank you for being a part of my coding adventure! Let's make this GitHub repository a vibrant hub of creativity, collaboration, and continuous learning. Feel free to explore, fork, and contribute. 
